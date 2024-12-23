@@ -16,16 +16,13 @@
     <line>
       <![CDATA[you are in another url]]>
     </line>
-    <line>
-      <![CDATA[Customer-00000013522     Customer-00000013522]]>
-    </line>
   </reporter-output>
-  <suite started-at="2024-12-09T11:51:44 IST" name="Surefire suite" finished-at="2024-12-09T11:53:13 IST" duration-ms="89111">
+  <suite started-at="2024-12-09T12:02:05 IST" name="Surefire suite" finished-at="2024-12-09T12:03:26 IST" duration-ms="81146">
     <groups>
     </groups>
-    <test started-at="2024-12-09T11:51:44 IST" name="Surefire test" finished-at="2024-12-09T11:53:13 IST" duration-ms="89111">
+    <test started-at="2024-12-09T12:02:05 IST" name="Surefire test" finished-at="2024-12-09T12:03:26 IST" duration-ms="81146">
       <class name="driverFactory.AppTest">
-        <test-method signature="startTest()[pri:0, instance:driverFactory.AppTest@3b07a0d6]" started-at="2024-12-09T11:51:44 IST" name="startTest" finished-at="2024-12-09T11:53:13 IST" duration-ms="88984" status="PASS">
+        <test-method signature="startTest()[pri:0, instance:driverFactory.AppTest@3b07a0d6]" started-at="2024-12-09T12:02:05 IST" name="startTest" finished-at="2024-12-09T12:03:26 IST" duration-ms="81033" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[You are now in currect page...........Dashboard « Stock Accounting]]>
@@ -41,9 +38,6 @@
             </line>
             <line>
               <![CDATA[you are in another url]]>
-            </line>
-            <line>
-              <![CDATA[Customer-00000013522     Customer-00000013522]]>
             </line>
           </reporter-output>
         </test-method> <!-- startTest -->
